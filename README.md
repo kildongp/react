@@ -7,6 +7,9 @@ react tutorial
 ## ES2015 문법
 ## React 기초 
 ## JSX 기초
-## Component 개념
+## props state
+## LifeCycle
+## input ,
+## array
 ## Redux 기본 개념
 
