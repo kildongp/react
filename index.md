@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+# React
 
-You can use the [editor on GitHub](https://github.com/kildongp/react/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 환경 셋팅
+## ES2015 문법
+## React 기초 
+## JSX 기초
+## Component 개념
+## Redux 기본 개념
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
